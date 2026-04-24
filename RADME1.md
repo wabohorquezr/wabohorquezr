@@ -32,8 +32,6 @@ if __name__ == '__main__':
 
 ## **Tech Toolbox🧰**<br>
 
-<p align='center'>
-<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <p align="left">
 <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
@@ -43,13 +41,20 @@ if __name__ == '__main__':
 <a href="https://colab.research.google.com/notebooks/" target="_blank"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/> </a>
 
 
+<h1>GitHub Stats</h1>
+<p><img src="https://github-readme-stats.vercel.app/api?username=wabohorquezr&amp;show_icons=true" alt="GitHub Stats"></p>
 
 ### Contatos: 
-<p align='left'>
-   <a href="https://www.youtube.com/@WilliamAlexanderBohorquezRodri" target="_blank">
-      <img height="30" src="https://img.shields.io/badge/-YouTube-%23333?style=for-the-badge&logo=youtube&logoColor=red">
-   </a>&nbsp;&nbsp;      
-   <a href="mailto:wbohorquezr@unal.edu.co">
-      <img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red">
-   </a>&nbsp;&nbsp;
+<h1>Where to find me</h1>
+
+<p>
+  <a href="https://github.com/" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@WilliamAlexanderBohorquezRodri" target="_blank">
+    <img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?&style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:wbohorquezr@unal.edu.co">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
