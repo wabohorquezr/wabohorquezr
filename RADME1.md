@@ -21,9 +21,7 @@ class AbhigyanTrips():
     self.name = "Alexnder Bohorquez";
     self.username = "wabohorquezr";
     self.location = "Bogota, Colombia";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
-  
+
   def __str__(self):
     return self.name
 
@@ -32,23 +30,26 @@ if __name__ == '__main__':
 ```
 
 
+## **Tech Toolbox🧰**<br>
 
-  <a href="wbohorquezr@unal.edu.co" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
-## My Statistics
+<p align='center'>
+<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
-<br/>
 <p align="left">
-  <a href="https://abhigyantrips.dev/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhigyantrips&theme=gruvbox&hide_border=true" />
-  </a>
+<a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="Python"/> </a>
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
+<a href="https://colab.research.google.com/notebooks/" target="_blank"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/> </a>
+
+
+
+### Contatos: 
+<p align='left'>
+   <a href="https://www.youtube.com/@WilliamAlexanderBohorquezRodri" target="_blank">
+      <img height="30" src="https://img.shields.io/badge/-YouTube-%23333?style=for-the-badge&logo=youtube&logoColor=red">
+   </a>&nbsp;&nbsp;      
+   <a href="mailto:wbohorquezr@unal.edu.co">
+      <img height="30" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red">
+   </a>&nbsp;&nbsp;
 </p>
-<br>
-
-[![Abhigyan Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=abhigyantrips&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://abhigyantrips.dev)
-
-------
-
-Credit: [abhigyantrips](https://github.com/abhigyantrips)
-
-Last Edited on: 24/12/2021
