@@ -1,21 +1,16 @@
 <h1 align="center">
-  <b>Abhigyan Trips</b>
+  <b>wbohorquezr RP</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+¡Hola! Soy William Alexander Bohorquez Rodriguez, estudiante que actualmente vive en Bogotá, Colombia.  
+Hablo español y estudio Ingeniería Eléctrica en la Universidad Nacional de Colombia.  
+
+En este momento me encuentro desarrollando proyectos personales y académicos relacionados con sistemas eléctricos, entornos Linux, automatización y programación aplicada.
 
 <br>
 
-<p>
-<div align="center">
-  <img src="https://img.shields.io/badge/-Python-98b982?style=for-the-badge&logo=python&logoColor=98b982&labelColor=282828">
-</div>
-</p>
-
 ```python
-class AbhigyanTrips():
+class AlexanderRepo():
     
   def __init__(self):
     self.name = "Alexnder Bohorquez";
@@ -30,7 +25,7 @@ if __name__ == '__main__':
 ```
 
 
-## **Tech Toolbox🧰**<br>
+## Herramientas🧰
 
 
 <p align="left">
@@ -39,14 +34,42 @@ if __name__ == '__main__':
 <a href="https://github.com/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"/> </a>
 <a href="https://colab.research.google.com/notebooks/" target="_blank"> <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252" alt="Google Colab"/> </a>
+<a href="https://www.autodesk.com/products/autocad/overview" target="_blank">
+  <img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" alt="AutoCAD"/>
+</a>
+<a href="https://www.dialux.com/" target="_blank">
+  <img src="https://img.shields.io/badge/DIALux-005BAC?style=for-the-badge&logoColor=white" alt="DIALux"/>
+</a>
+<a href="https://archlinux.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+</a>
+<a href="https://www.debian.org/" target="_blank">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
+</a>
 
 
-<h1>GitHub Stats</h1>
-<p><img src="https://github-readme-stats.vercel.app/api?username=wabohorquezr&amp;show_icons=true" alt="GitHub Stats"></p>
+## Proyectos:
 
-### Contatos: 
-<h1>Where to find me</h1>
+### [Bash-para-acceder-a-tu-git-continuamente-con-ssh-Key](https://github.com/wabohorquezr/Bash-para-acceder-a-tu-git-continuamente-con-ssh-Key)
+- Script en Bash que configura automáticamente Git y genera una clave SSH para autenticación segura y permanente con GitHub.
+- Permite evitar ingresar usuario y contraseña en cada operación, asociando tu computador mediante SSH.
+- Technologies Used: Bash, Git, SSH, GitHub
 
+### [Mi-Dotfiles](https://github.com/wabohorquezr/Mi-Dotfiles)
+- Configuración personal de Arch Linux con Hyprland, incluyendo un escritorio simple y funcional.
+- Contiene ajustes para Rofi, Waybar, terminal y scripts personalizados para productividad.
+- Technologies Used: Hyprland, Arch Linux, Bash, Rofi, Waybar
+
+### [Instalaciones](https://github.com/wabohorquezr/Instalaciones)
+- Repositorio con proyectos eléctricos y planos técnicos de instalaciones residenciales y comerciales.
+- Incluye documentación relacionada con subestaciones, áreas comunes, apartamentos, locales y sótanos.
+- Technologies Used: AutoCAD, Diseño Eléctrico, Documentación Técnica
+<!-----/projects-------->
+
+<br>
+
+
+## Contatos: 
 <p>
   <a href="https://github.com/" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
